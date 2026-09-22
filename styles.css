@@ -101,3 +101,4 @@ body{background:#f4f6f8;color:#202b3b}
 .eyebrow.dark{color:#526278}.team-card{background:rgba(255,255,255,.72);color:#202b3b}.team-card-body{background:rgba(255,255,255,.7)}
 .values-grid article{border-color:#d5dbe2}.capability{color:#202b3b}.capability.active{background:rgba(51,71,107,.06)}
 .branch-panel,.contact-form-wrap{background:rgba(255,255,255,.78)}.form-field input,.form-field textarea,.form-field select{background:#fff;color:#202b3b;border-color:#c5ced8}
+.map-placeholder{height:auto;min-height:220px;overflow:hidden;background:var(--navy-deep);position:relative}.map-placeholder iframe{display:block;width:100%;height:180px;border:0}.map-link{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;background:var(--navy-deep);color:var(--gold);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}.map-link span{font-size:16px;line-height:0}
